@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "ampreactgraphql26af7473": {}
+      },
+      "api": {
+        "ampreactgraphql": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
